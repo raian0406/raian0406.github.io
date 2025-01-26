@@ -8,12 +8,3 @@ location: "City, Country"
 ---
 
 Teaching assistant in optimization for first-year engineering students.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
