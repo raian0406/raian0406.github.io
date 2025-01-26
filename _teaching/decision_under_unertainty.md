@@ -2,7 +2,7 @@
 title: "Teaching assistant in decision under uncertainty"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/L1_suites_et_fonctions
+permalink: /teaching/decision_under_uncertainty
 venue: "Ecole des Ponts, IP Paris"
 date: 2024-01-23
 location: "Champs-sur-Marne, France"
