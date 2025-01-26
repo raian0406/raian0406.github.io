@@ -1,7 +1,7 @@
 ---
 title: "Multistage stochastic optimization of a mono-site hydrogen infrastructure by decomposition techniques"
 collection: preprints
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publications/2009-10-01-paper-title-number-1
 excerpt: 'In this paper, we develop a multistage stochastic optimization model for the management of a hydrogen infrastructure using Lagrange duality'
 date: 2024-07-02
 venue: 'preprint'
