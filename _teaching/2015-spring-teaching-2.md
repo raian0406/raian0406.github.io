@@ -8,4 +8,4 @@ date: 2024-09-01
 location: "Champs-sur-Marne, France"
 ---
 
-Teaching assistant in optimization for first-year engineering class by Frédéric Meunier: <a href="https://gede.enpc.fr/programme/Fiche.aspx?param=M:1OPTI">Link<\a>.
+Teaching assistant in optimization for first-year engineering class by Frédéric Meunier: <a href="https://gede.enpc.fr/programme/Fiche.aspx?param=M:1OPTI">Link.
