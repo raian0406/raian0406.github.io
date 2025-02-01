@@ -21,7 +21,7 @@ repository               : "raian0406/raianlefgoum.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_lefgoum.png"
+  avatar           : "photo_lefgoum.jpg"
   name             : "Lefgoum Raian"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in applied mathematics"
