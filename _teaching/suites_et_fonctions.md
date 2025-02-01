@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant in suites et fonctions"
+title: "Teaching assistant in Suites et Fonctions"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/suites_et_fonctions
